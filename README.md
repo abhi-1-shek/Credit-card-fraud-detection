@@ -79,5 +79,9 @@ Source: Kaggle Credit Card Fraud Dataset
 
     * F1-score
 
+Conclusion
+
+The Random Forest model achieved 92% accuracy in detecting fraudulent transactions, showing strong performance and ability to capture complex patterns. Its ensemble approach improves stability and reduces overfitting. While effective, additional metrics like precision, recall, and F1-score are important due to class imbalance. Overall, it is a reliable model with room for further improvement.
+
 
 
