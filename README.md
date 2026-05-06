@@ -2,19 +2,19 @@ Credit Card Fraud Detection Using Machine Learning
 
 📌 Project Overview
 
-This project focuses on detecting fraudulent credit card transactions using machine learning algorithms. By analyzing transaction patterns, the model identifies suspicious activities and helps financial institutions minimize fraud losses while ensuring smooth transactions for legitimate users.
+   This project focuses on detecting fraudulent credit card transactions using machine learning algorithms. By analyzing transaction patterns, the model identifies             suspicious activities and helps financial institutions minimize fraud losses while ensuring smooth transactions for legitimate users.
 
 🎯 Objectives
 
-* Analyze transaction data to identify fraud patterns.
+    * Analyze transaction data to identify fraud patterns.
 
-* Handle highly imbalanced datasets.
+    * Handle highly imbalanced datasets.
 
-* Build and evaluate machine learning models for fraud detection.
+    * Build and evaluate machine learning models for fraud detection.
 
-* Improve accuracy while minimizing false positives.
+    * Improve accuracy while minimizing false positives.
 
-* Predict fraudulent transactions in real-time.
+    * Predict fraudulent transactions in real-time.
 
 🛠️ Technologies Used
 
@@ -22,61 +22,64 @@ Programming Language: Python
 
 -> Libraries:
 
-* NumPy
+    * NumPy
 
-* Pandas
+    * Pandas
 
-* Matplotlib
+    * Matplotlib
 
-* Seaborn
+    * Seaborn
 
-* Scikit-learn
+    * Scikit-learn
 
-* Imbalanced-learn (SMOTE)
+    * Imbalanced-learn (SMOTE)
 
-* Platform: Jupyter Notebook / VS Code
+    * Platform: Jupyter Notebook / VS Code
 
 📂 Dataset
 
 Source: Kaggle Credit Card Fraud Dataset
 
 
-
 ⚙️ Project Workflow
 
-* Data Collection
+    * Data Collection
 
-* Data Preprocessing
+    * Data Preprocessing
 
-* Handling missing values
+    * Handling missing values
 
-* Feature scaling
+    * Feature scaling
 
-* Exploratory Data Analysis (EDA)
+    * Exploratory Data Analysis (EDA)
 
-* Feature Selection
+    * Feature Selection
 
 -> Model Training
 
-* Logistic Regression
+    * Logistic Regression
 
-* Random Forest
+    * Random Forest
 
-* Decision Tree
+    * Decision Tree
 
-* XGBoost
+    * XGBoost
 
-* Support Vector Machine(SVM)
+    * Support Vector Machine(SVM)
 
-* Navie bayes
+    * Navie bayes
 
 -> Model Evaluation
+ 
+    * Confusion Matrix
 
-* Confusion Matrix
+    * Precision
 
-* Precision
+    * Recall
 
-* Recall
+    * F1-score
 
-* F1-score
+Conclusion
+
+  The Random Forest model achieved 95% accuracy, demonstrating strong predictive performance and effective handling of complex data patterns. Its ensemble approach            improved generalization and reduced overfitting. While the results are promising, additional metrics like precision, recall, and F1-score should be considered for a         more complete evaluation. Overall, the model proves to be a reliable and efficient choice for this task.
 
