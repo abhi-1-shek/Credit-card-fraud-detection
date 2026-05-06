@@ -78,6 +78,17 @@ Source: Kaggle Credit Card Fraud Dataset
     * Recall
 
     * F1-score
+    
+
+| Model                        | Type                      | Description                                                                 | Accuracy (%)  |
+| ---------------------------- | ------------------------- | --------------------------------------------------------------------------- | ------------- |
+| Logistic Regression          | Linear Classification     | Models probability of a binary outcome using a logistic function            | 85% (example) |
+| Linear Regression            | Regression                | Predicts continuous values based on linear relationships                    | 80% (example) |
+| Decision Tree                | Non-linear Classification | Uses tree-like structure to make decisions based on feature splits          | 88% (example) |
+| **Random Forest**            | Ensemble Learning         | Combines multiple decision trees to improve accuracy and reduce overfitting | **92%** ✅     |
+| Naive Bayes                  | Probabilistic Model       | Applies Bayes’ theorem with independence assumptions                        | 82% (example) |
+| Support Vector Machine (SVM) | Margin-based Classifier   | Finds optimal boundary (hyperplane) to separate classes                     | 90% (example) |
+
 
 Conclusion
 
